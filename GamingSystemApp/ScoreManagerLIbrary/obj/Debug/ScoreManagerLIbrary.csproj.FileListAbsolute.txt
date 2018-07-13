@@ -1,0 +1,5 @@
+C:\WebApps\GamingSystemApp\ScoreManagerLIbrary\bin\Debug\ScoreManagerLIbrary.dll
+C:\WebApps\GamingSystemApp\ScoreManagerLIbrary\bin\Debug\ScoreManagerLIbrary.pdb
+C:\WebApps\GamingSystemApp\ScoreManagerLIbrary\obj\Debug\ScoreManagerLIbrary.dll
+C:\WebApps\GamingSystemApp\ScoreManagerLIbrary\obj\Debug\ScoreManagerLIbrary.pdb
+C:\WebApps\GamingSystemApp\ScoreManagerLIbrary\obj\Debug\ScoreManagerLIbrary.csprojResolveAssemblyReference.cache

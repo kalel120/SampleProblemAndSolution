@@ -1,0 +1,8 @@
+C:\WebApps\GamingSystemApp\GamingSystemApp\bin\Debug\GamingSystemApp.exe.config
+C:\WebApps\GamingSystemApp\GamingSystemApp\bin\Debug\GamingSystemApp.exe
+C:\WebApps\GamingSystemApp\GamingSystemApp\bin\Debug\GamingSystemApp.pdb
+C:\WebApps\GamingSystemApp\GamingSystemApp\obj\Debug\GamingSystemApp.csprojResolveAssemblyReference.cache
+C:\WebApps\GamingSystemApp\GamingSystemApp\obj\Debug\GamingSystemApp.exe
+C:\WebApps\GamingSystemApp\GamingSystemApp\obj\Debug\GamingSystemApp.pdb
+C:\WebApps\GamingSystemApp\GamingSystemApp\bin\Debug\ScoreManagerLIbrary.dll
+C:\WebApps\GamingSystemApp\GamingSystemApp\bin\Debug\ScoreManagerLIbrary.pdb
